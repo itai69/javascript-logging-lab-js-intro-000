@@ -3,9 +3,9 @@ console.error() {
 }
 
 
-console.log() {
+
     console.log("wasup")
-}
+
 
 
 console.warn() {
