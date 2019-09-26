@@ -4,10 +4,10 @@ console.error() {
 
 
 console.console.log(){
-    console.log(wasup)
+    console.log("wasup")
 };
 
 
 console.warn{
-    console.warn(watch out)
+    console.warn("watch out")
 };
