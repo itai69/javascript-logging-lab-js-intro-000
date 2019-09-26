@@ -2,5 +2,12 @@ console.error() {
   console.error("HALP!")
 }
 
-console.log(wasup);
-console.console.warn(watch out);
+
+console.console.log(){
+    console.log(wasup)
+};
+
+
+console.warn{
+    console.warn(watch out)
+};
