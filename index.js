@@ -3,11 +3,11 @@ console.error() {
 }
 
 
-console.console.log(){
+console.log(){
     console.log("wasup")
-};
+}
 
 
-console.warn{
+console.warn(){
     console.warn("watch out")
-};
+}
